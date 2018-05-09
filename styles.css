@@ -6,6 +6,14 @@ h1{
     text-shadow:1px 1px 0px white;
     }
 
+h2{
+    text-align:center;
+    font-family: courier;
+    color:white;
+    text-shadow:1px 1px 0 px black;
+    
+}
+
 p{
     text-align:center;
     font-family: monospace;
@@ -19,4 +27,11 @@ body{
    background-image:url(https://cdna.artstation.com/p/assets/images/images/003/901/956/large/alexander-alartus-sombra-rising.jpg?1478373513);  
    background-repeat:no-repeat; 
    background-size:cover;
+}
+
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    color:red;
+    text-shadow:1px 1px 0px black;
 }
